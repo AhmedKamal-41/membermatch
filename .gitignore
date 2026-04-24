@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+# Synthetic data is committed by default — it's deterministic
+# and required by tests. Uncomment next line if data/sources gets too big:
+# data/sources/

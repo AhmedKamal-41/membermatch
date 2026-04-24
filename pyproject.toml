@@ -1,0 +1,5 @@
+[project]
+name = "membermatch"
+version = "0.1.0"
+description = "Healthcare member data reconciliation pipeline demonstrating SQL depth and data quality testing."
+requires-python = ">=3.11"
