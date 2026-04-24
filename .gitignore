@@ -12,3 +12,6 @@ build/
 # Synthetic data is committed by default — it's deterministic
 # and required by tests. Uncomment next line if data/sources gets too big:
 # data/sources/
+
+# Local checkpoint notes — progress artifacts for build phases, not shipped
+CHECKPOINT_*.md
